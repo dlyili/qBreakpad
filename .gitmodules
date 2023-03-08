@@ -3,4 +3,4 @@
 	url = https://github.com/google/breakpad
 [submodule "third_party/lss"]
 	path = third_party/lss
-	url = https://github.com/adelshokhy112/linux-syscall-support
+	url = https://github.com/cpp-pm/linux-syscall-support
